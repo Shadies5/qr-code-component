@@ -18,11 +18,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./images/Screenshot.png)
+![](./images/screenshot.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: ([![Netlify Status](https://api.netlify.com/api/v1/badges/e9d9fcc2-0bc9-4bbb-81e9-29ba9d765225/deploy-status)](https://app.netlify.com/sites/qr-code-challenge-222222/deploys))
+- Live Site URL: (https://shadies5.github.io/qr-code-component/)
 
 ## My process
 
