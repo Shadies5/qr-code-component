@@ -14,8 +14,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -24,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: ([![Netlify Status](https://api.netlify.com/api/v1/badges/e9d9fcc2-0bc9-4bbb-81e9-29ba9d765225/deploy-status)](https://app.netlify.com/sites/qr-code-challenge-222222/deploys))
 
 ## My process
 
